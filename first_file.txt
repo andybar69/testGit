@@ -1,1 +1,1 @@
-My first tracked file
+This is the first file tht I added to project.
