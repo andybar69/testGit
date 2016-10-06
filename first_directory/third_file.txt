@@ -1,3 +1,3 @@
 This is a third file that I added.
-
+Altered master
 It comes at the end.
